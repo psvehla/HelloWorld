@@ -13,3 +13,9 @@
 .externalNativeBuild
 .cxx
 local.properties
+.idea/codeStyles/Project.xml
+.idea/codeStyles/codeStyleConfig.xml
+.idea/compiler.xml
+.idea/deploymentTargetDropDown.xml
+.idea/gradle.xml
+.idea/misc.xml
